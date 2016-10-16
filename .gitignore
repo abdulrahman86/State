@@ -1,5 +1,4 @@
 .idea/
-built.sbt
 hw.scala
 project/
 target/
